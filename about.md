@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About Me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am now pursuing Master of Engeering in Computer Science, and also the member of Data Science Lab at McMaster University. My personal interest includes software development, web development, databases and data cleaning.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[djhuang21@gmail.com](mailto:djhuang21@gmail.com)
